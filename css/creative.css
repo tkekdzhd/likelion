@@ -10756,5 +10756,7 @@ header.masthead h1 {
 .page-section1{
   background-color: #FFDF32;
   padding: 8em 0;
+  font-size: 1.2rem;
+  font-family: 'Do Hyeon', sans-serif;
+  font-display: column;
 }
-
